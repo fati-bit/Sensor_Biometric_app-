@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensorBaseBiometricAuthentification</string>
+    <string name="s1">Welcome ! </string>
+    <string name="s2">Sensor Base Biometric Authentification </string>
+    <string name="s3">Fingerprint authentification</string>
+    <string name="s4">Place your finger on scanner to process</string>
+    <string name="image">image</string>
+</resources>
